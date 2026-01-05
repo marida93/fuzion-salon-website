@@ -39,7 +39,7 @@ footer { text-align: center; padding: 20px; background-color: #fff; color: #777;
 /* Butterflies flying animation */
 .butterfly {
   position: absolute;
-  width: 50px;
+  width: 100px;
   top: 80%;
   left: 0;
   animation: fly 10s linear infinite;
@@ -54,4 +54,5 @@ footer { text-align: center; padding: 20px; background-color: #fff; color: #777;
   75% { transform: translate(600px, -120px) rotate(10deg); }
   100% { transform: translate(800px, 0) rotate(0deg); }
 }
+
 
